@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">The Focus App</string>
     <string name="action_set_focus">Set Focus</string>
-    <string name="my_focus">Stop procrastinating and Succeed, control the mind and body, FOCUS, EXECUTE, COMPLETE TASKS, BE BOLD, PRAY &amp; HAVE FAITH.</string>
+    <string name="default_focus">Stop procrastinating and Succeed, control the mind and body, FOCUS, EXECUTE, COMPLETE TASKS, BE BOLD, PRAY &amp; HAVE FAITH.</string>
 </resources>
